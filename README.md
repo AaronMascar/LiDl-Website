@@ -1,5 +1,5 @@
-*DISCLAMER*
-I do not clam to own this trademark name and was create just for the sake of parady and I do not own the trademark "Lidl" and it's assets or claim that this is an official web store that sell produs uder "Lidl" and is purely just a dummy side project I had worked on as a joke.
+# *DISCLAMER*
+# I do not clam to own this trademark name and was create just for the sake of parady and I do not own the trademark "Lidl" and it's assets or claim that this is an official web store that sell produs uder "Lidl" and is purely just a dummy side project I had worked on as a joke.
 
 # LiDl Website
 
