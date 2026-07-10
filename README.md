@@ -6,6 +6,6 @@ I do not clam to own this trademark name and was create just for the sake of par
 Wlcome to my page, I've created my very own "LIDl" website and hosted it here, and this is just  side project that I'd worked on recreatind based on the popular store "LiDL'
 
 
-LiDl Website Link -
+Here is the to the "LiDl" Website, thank you for visiting my Website -
 
 https://aaronmascar.github.io/LiDL-Website/
