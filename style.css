@@ -4,6 +4,7 @@
 /*control wrapper*/
 #aaron{
 	width:100%;/*width of the main area*/
+	height: 100%;/*height of the main area*/
 	margin:0 auto;/*adds a margin */
 	padding:0;/*space between of the main area*/
 }
@@ -11,8 +12,9 @@
 /*LiDL logo left side*/
 .img1{
 	float:left;/*position of the image1*/
-	margin-left: 10%;/*left margin of the image1*/
-	margin-top: 40px;/*top margin of the image1*/
+	margin-left: 2%;/*left margin of the image1*/
+	margin-top: 2%;/*top margin of the image1*/
+	margin-bottom: 2%;/*bottom margin of the image1*/
 	border-radius: 4px;/*side gaps within the image1*/
 	transition: 0.6s ease;/*smooth fade effect*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -27,9 +29,8 @@
 
 /*control the heading*/
 #header{
-	width:80%;/*width of the header*/  
-	margin-right:10%;/*right margin of the info box*/
-	margin-left: 10%;/*width of the info box*/	
+	width:100%;/*width of the header*/  
+	margin:auto;
 	float:left;/*position of the header*/
 	border:0px solid black;/*border of the header*/ 
 	color: #0033cc;/*color of the header text*/
@@ -47,6 +48,7 @@
 	font-family: Century Gothic;/*font of the info box*/
 	background-color: #ffff00;/*background color of the info box*/
 	text-align:center;/*alignment of the text of the info box*/
+	margin-top:10%;
 	margin-right:10%;/*right margin of the info box*/
 	margin-left: 10%;/*width of the info box*/
 	border-radius: 4px;/*corners of the info box*/
@@ -82,7 +84,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*height of the pop-up box*/
+	height: 100%;/*height of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -94,7 +96,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*height of the pop-up box*/
+	height: 100%;/*height of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -106,7 +108,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -118,7 +120,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -129,7 +131,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -140,7 +142,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -151,7 +153,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -162,7 +164,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -173,7 +175,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -184,7 +186,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -195,7 +197,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -206,7 +208,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -217,7 +219,7 @@
 	left: 0; /*adjusts left position of the pop-up box*/
 	position: fixed; /*fixed position of the pop-up box*/
 	width: 100%; /*width of the pop-up box*/
-	height: 120%;/*width of the pop-up box*/
+	height: 100%;/*width of the pop-up box*/
 	background-color: rgba(0,0,0,0.7); /*background color of the pop-up box*/
 	display: none;/*block - one beneath / in-line - side by side for the pop-up box*/
 	cursor: pointer;/*changes cursor to pointer*/
@@ -225,10 +227,10 @@
 
 /*Boundaries of the pop-up box*/
 .popupBoxWrapper{
-	width: 80%; /*width of the wrapper*/
+	width: 100%; /*width of the wrapper*/
 	height: 100%; /*height of the wrapper*/
 	padding:5%;
-	margin-top:0; /*top margin of the wrapper*/
+	margin:auto; /*top margin of the wrapper*/
 	text-align: center;/*aligns text to center of the wrapper*/
 	transition: 0.6s ease;/*smooth fade effect*/
 }
@@ -237,9 +239,9 @@
 .popupBoxContent{
 	width: 80%;
 	background-color: #FFF; /*background color of the content*/
-	padding: 15px;/*side gaps of the content within the pop-up box*/
-	margin-top: 0;/*top margin gap of the content within the pop-up box*/
-	margin-left: 20%;/*top margin gap of the content within the pop-up box*/
+	padding: 2%;/*side gaps of the content within the pop-up box*/
+	margin: auto;/*top margin gap of the content within the pop-up box*/
+	margin-left: 4%;/*top margin gap of the content within the pop-up box*/
 	border-radius: 4px;/*corners of the pop-up box*/
 	transition: 0.6s ease;/*smooth fade effect*/
 	color:  #0033cc;;/*color of the container's text*/
@@ -247,18 +249,21 @@
 
 /*content for Donation button withing the pop-up box*/
 .popupBoxContents{
-	width: 100%;
-	background-color: #FFF; /*background color of the content*/
-	padding: 15px;/*side gaps of the content within the pop-up box*/
-	margin-top: 15%;/*top margin gap of the content within the pop-up box*/
-	margin-left: 10%;
+	width: 80%;
+	background-color: #ffff00; /*background color of the content*/
+	padding: 2%;/*side gaps of the content within the pop-up box*/
+	margin: auto;/*top margin gap of the content within the pop-up box*/
+	margin-top: 15%;
+	margin-left: 4%;
 	border-radius: 4px;/*corners of the pop-up box*/
 	transition: 0.6s ease;/*smooth fade effect*/
-	color:  #0033cc;;/*color of the container's text*/
+	color:  #0033cc;/*color of the container's text*/
 }
 
 /*control the main areas*/
 main{
+	margin-top: 5%;
+	margin-bottom: 5%;
 	width:100%;/*width of the main area*/
 	float:left;/*position of the main area*/
 	border:0px solid black;/*border of the main area*/
@@ -267,15 +272,15 @@ main{
 
 /* contains all sub-classes*/
 .contain{
-		width:100&;/*width of the container*/
+		width:80%;/*width of the container*/
 		margin-right:10%;/*right margin of the container*/
-		margin-left: 20%;/*left margin of the container*/
+		margin-left: 10%;/*left margin of the container*/
 		margin-top: 5%;/*top margin of the container*/
 		margin-bottom: 5%;/*bottom margin of the container*/
 		float: left;/*moves to the left of the container*/
 		display: block;/*block - one beneath / in-line - side by side*/
 		border: 0px solid black;/*border of the container*/
-		color:  #0033cc;;/*color of the container's text*/
+		color:  #0033cc;/*color of the container's text*/
 		cursor: pointer;/*changes cursor to pointer*/
 		transition: 0.6s ease;/*smooth fade effect*/
 }
@@ -285,7 +290,7 @@ main{
 		width:278px;/*width of the prod box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains first product picture*/
@@ -322,7 +327,7 @@ main{
 		width:278px;/*width of the product box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains second product picture*/
@@ -359,7 +364,7 @@ main{
 		width:278px;/*width of the product box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains third product picture*/
@@ -396,7 +401,7 @@ main{
 		width:278px;/*width of the product box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains fourth product picture*/
@@ -433,7 +438,7 @@ main{
 		width:278px;/*width of the product box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains fifth product picture*/
@@ -470,7 +475,7 @@ main{
 		width:278px;/*width of the product box*/
 		float: left;/*moves to the left of the prod box*/
 		display: block;/*block - one beneath / in-line - side by side*/
-		margin: 10px;/*margin of the prod box*/
+		margin: 5%;/*margin of the prod box*/
 }
 		
 /* contains sixth product picture*/
@@ -504,7 +509,7 @@ main{
 
 .addbutton{	
 	width:50%;/*width of the header*/   
-	background-color: silver;/*background color of the submit button*/
+	background-color: #ffff00;/*background color of the submit button*/
 	color:  #0033cc;/*color of the text*/
 	padding:1%;/*side gaps within the submit button*/
 	margin-left:24%;/*left margin of the home nav box*/
@@ -515,9 +520,9 @@ main{
 }
 
 .addbutton:hover{
-	background-color: #fff;/*background color of the submit button*/
+	background-color: silver;/*background color of the submit button*/
 	box-shadow: 0 0 0 2px;/*box shadow of the submit button*/
-	color:  #000;/*color of the text*/
+	color: #0033cc;/*color of the text*/
 
 }
 
@@ -539,8 +544,8 @@ main{
 
 .paybutton{	
 	width:50%;/*width of the header*/   
-	background-color: silver;/*background color of the submit button*/
-	color:  #0033cc;/*color of the text*/
+	background-color: #0033cc;/*background color of the submit button*/
+	color: #ffff00;/*color of the text*/
 	padding:1%;/*side gaps within the submit button*/
 	margin-left:24%;/*left margin of the home nav box*/
 	border-radius: 4px solid #fff;/*side gaps within the submit button*/
@@ -550,9 +555,9 @@ main{
 }
 
 .paybutton:hover{
-	background-color: #fff;/*background color of the submit button*/
+	background-color: silver;/*background color of the submit button*/
 	box-shadow: 0 0 0 2px;/*box shadow of the submit button*/
-	color:  #000;/*color of the text*/
+	color:  #0033cc;/*color of the text*/
 
 }	
 
@@ -574,8 +579,8 @@ main{
 
 .donatebutton{	
 	width:50%;/*width of the header*/   
-	background-color: silver;/*background color of the submit button*/
-	color:  #0033cc;/*color of the text*/
+	background-color: #0033cc;/*background color of the submit button*/
+	color: #ffff00;/*color of the text*/
 	padding:1%;/*side gaps within the submit button*/
 	margin-left:24%;/*left margin of the home nav box*/
 	border-radius: 4px solid #fff;/*side gaps within the submit button*/
@@ -585,9 +590,9 @@ main{
 }
 
 .donatebutton:hover{
-	background-color: #fff;/*background color of the submit button*/
+	background-color: silver;/*background color of the submit button*/
 	box-shadow: 0 0 0 2px;/*box shadow of the submit button*/
-	color:  #000;/*color of the text*/
+	color:  #0033cc;/*color of the text*/
 
 }	
 
@@ -629,6 +634,7 @@ main{
 
 /*control the bottom area*/
 footer{
+	margin: auto;
 	width:100%;/*width of the footer*/
 	float:left;/*moves to the left of the footer*/
 	display:in-line;/*block - one beneath / in-line - side by side*/
