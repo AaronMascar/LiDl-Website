@@ -8,4 +8,4 @@ Welcome to my page, I've created my very own first website "LIDl" website and ho
 
 Here is the link to the "LiDl" Website, Thank you for visiting my Website, have a great day :) -
 
-https://aaronmascar.github.io/LiDL-Website/
+https://aaronmascar.github.io/LiDl-Website/
